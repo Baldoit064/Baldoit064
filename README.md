@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Baldoit064
-- 👀 I’m interested in game developing and web programming.
-- 🌱 I’m currently learning CSS, javascript, node, react and gdscript.
+- 👋 Hi, I’m Nicolas
+- 👀 I’m interested in game and web development.
+- 🌱 I’m currently learning Python and GDScript.
 <!---
 - 📫 How to reach me ...
 --->
