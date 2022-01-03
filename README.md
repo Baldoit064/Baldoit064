@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicolas
-- 👀 I’m interested in game and web development.
-- 🌱 I’m currently learning Python and GDScript.
+- 👀 I’m interested in game development and web development.
+- 🌱 I’m currently learning Python, GDScript, C, React and Laravel.
 <!---
 - 📫 How to reach me ...
 --->
